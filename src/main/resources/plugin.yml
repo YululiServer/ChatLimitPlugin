@@ -1,0 +1,6 @@
+name: ChatLimitPlugin
+version: @version@
+main: xyz.n7mn.dev.chatlimitplugin.ChatLimitPlugin
+api-version: 1.16
+authors: [ n3m_ ]
+description: Chat LimitPlugin
